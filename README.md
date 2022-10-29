@@ -42,7 +42,7 @@ please follow the README.md file in the admin folder
   Andenet Alexander
 </a>
 
-> any type of contribution is welcomed. [Fork](https://github.com/andyalex234/logistic-optimization/fork), apply your changes and make a [pull request](https://github.com/andyalex234/logistic-optimization/pull).
+> any type of contribution is welcomed. [Fork](https://github.com/andyalex234/fund-by-gps-location/fork), apply your changes and make a [pull request](https://github.com/andyalex234/fund-by-gps-location/pull).
 
 ## Acknowledgement
 This project was given by [10Academy](https://www.10academy.org/) as a challange for the trainees 
