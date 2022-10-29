@@ -1,3 +1,6 @@
 [submodule "admin"]
 	path = admin
 	url = git@github.com:andyalex234/admin.git
+[submodule "fbl_client_dapp"]
+	path = fbl_client_dapp
+	url = git@github.com:andyalex234/fbl_client_dapp.git
